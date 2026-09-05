@@ -22,9 +22,3 @@ The program takes the height of the pyramid and prints a centered star pyramid.
 - Conditional statements
 - Basic input/output
 
-## How to Run
-
-Compile the program using a C++ compiler:
-
-```bash
-g++ main.cpp -o main
